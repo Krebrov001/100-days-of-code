@@ -5,7 +5,7 @@
 ### *There are two main topics that I want to study: C++ and LLVM. I will alternate the days for studying these two topics. Each topic has a separate counter for it's own 100 days.*
 
 #### Start Date
-Feb 1, 2021
+Feb X, 2021
 
 ## Additional Rules
 1. These 2 hours should be productive time, not wasted.
