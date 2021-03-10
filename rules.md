@@ -1,11 +1,10 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will study programming for at 2 hours every day for the next 100 days, and then all day on the weekends.*
-### *There are two main topics that I want to study: C++ and LLVM. I will alternate the days for studying these two topics. Each topic has a separate counter for it's own 100 days.*
+### *I will study C++ programming for at 2 hours every day for the next 100 days, and then all day on the weekends.*
 
 #### Start Date
-Feb X, 2021
+March 9, 2021
 
 ## Additional Rules
 1. These 2 hours should be productive time, not wasted.
